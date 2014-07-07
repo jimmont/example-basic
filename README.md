@@ -1,7 +1,6 @@
-ex-basic
-========
+# ex-basic
 
-This repository has just 5 basic commits on master by three different coders, providing a basic commit structure for learning exploring Git commands.
+tinkering with git
 
 ## Usage
 
