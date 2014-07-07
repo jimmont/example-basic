@@ -1,5 +1,5 @@
 # GitHub Student Personal File
-This is the personal file of the student
+some stuff and a few things
 
 ## Hometown
 San Francisco, CA
